@@ -1,8 +1,7 @@
 # root
-The start of everything else
 
 Julien Calas
-QIS Structuring · Derivatives · Quant Finance · Tokyo
+QIS Structuring · Structured Derivatives · Quant Finance · Tokyo
 
 I've been working in tradfi for the past 20 years now, across structured products and quantitative investment strategies - currently heading the QIS Structuring team for APAC at Barclays sitting in Tokyo.
 
